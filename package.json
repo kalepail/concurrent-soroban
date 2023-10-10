@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "soroban-client": "^1.0.0-beta.2",
+    "stellar-base": "github:stellar/js-stellar-base"
+  }
+}
